@@ -1,0 +1,16 @@
+
+.title_slogan span{
+    font-size: 25px !important;
+    font-weight: bold;
+    color: black;
+}
+
+.card-map iframe{
+border-radius-top: 25px !important ;
+}
+
+.container #card-contact{
+    width: 40px !important;
+    height: 40px !important;
+    background-color: blue;
+}
