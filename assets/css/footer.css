@@ -105,16 +105,22 @@ footer {
   color: #a77822;
 }
 
+
+
 #bouton {
   background-color: #ffffff;
   color: black;
-
-  border-style: none !important;
+  color: black;
+  font-weight: bold;
+  border-color: none !important;
+  border-radius: 5px !important;
 }
 
 #bouton:hover {
   background: linear-gradient(180deg, #a77822 0%, #c19946 100%);
   color: black;
+  font-weight: bold;
+   border-color: none !important;
 }
 
 form {
