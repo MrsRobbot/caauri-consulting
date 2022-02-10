@@ -5,12 +5,63 @@
     color: black;
 }
 
-.card-map iframe{
-border-radius-top: 25px !important ;
+.title_slogan .title-sous{
+   position: relative;
+   margin-right: -100px !important;
+   width: 50px;
+}
+
+
+.card-map iframe {
+border-radius: 25px !important ;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .container #card-contact{
-    width: 40px !important;
-    height: 40px !important;
-    background-color: blue;
+    width: 200px !important;
+    height: 200px !important;
+    background-color: rgba(224, 224, 224, 0.774);
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+}
+
+ #card-contact < span{
+    font-size: 1px;
+    font-weight: bold !important;
+    
+
+}
+
+
+.caauri-footer .project-footer{
+    color: #fff;
+
+}
+
+#consultez{
+    height: 50%;
+}
+
+
+/*Responsive Design*/
+
+@media only screen and (max-width: 600px){
+
+
+
+
+}
+
+@media only screen and (max-width: 768px){
+
+    #contact-info{
+      position: relative;
+       margin: 120px;
+        
+    }
+
 }
